@@ -1,5 +1,4 @@
-# Chemstream
-A Real-Time Big Data Pipeline for Chemical Reaction and Material  Property Prediction 
+
 # ChemStream
 
 **A real-time big-data pipeline for chemical reaction and material property prediction.**
