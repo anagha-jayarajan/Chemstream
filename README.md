@@ -414,3 +414,9 @@ deployment guide, demo script and final report assembly.
 | Containers killed or very slow | Docker Desktop, Settings, Resources: at least 6 GB memory |
 | `No module named 'tools'` (or `common`, `producers`) | Add an empty `__init__.py` to that folder |
 | Interactive Spark query hangs | Stop streaming jobs, or use `get_spark(name, cores="2")` |
+
+molecules: 290
+multi-source: 0
+materials: 100
+with band gap: 100
+with formation energy: 100
